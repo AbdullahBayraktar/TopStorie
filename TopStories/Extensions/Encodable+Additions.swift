@@ -1,8 +1,8 @@
 //
 //  Encodable+Additions.swift
-//  CarMarket
+//  TopStories
 //
-//  Created by Abdullah Bayraktar on 19.10.2019.
+//  Created by Abdullah Bayraktar on 8.11.2019.
 //  Copyright © 2019 Abdullah Bayraktar. All rights reserved.
 //
 
