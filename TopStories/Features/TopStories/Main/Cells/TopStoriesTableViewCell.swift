@@ -33,7 +33,7 @@ final class TopStoriesTableViewCell: UITableViewCell {
         authorLabel.text = story.author
         
         if let url = story.multimedia.first?.url {
-            imageView?.dowloadFromServer(link: url) { [weak self] in
+            smallImageView?.dowloadFromServer(link: url) { [weak self] in
                 self?.setNeedsLayout()
             }
         }
